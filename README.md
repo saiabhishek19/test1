@@ -3,4 +3,4 @@
 this is just a test to see if the odcker container can clone ad see my github repository.
 thanks!
 
-lets see if this works
+it should work now!, no other choice it has, 13th Feb
